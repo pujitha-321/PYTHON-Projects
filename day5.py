@@ -1,3 +1,4 @@
+''''THESE ARE THE COdE FOR BASIC STRING CONCEPT'''''
 #string allocation
 name = "Pujitha"
 print(name[0])
