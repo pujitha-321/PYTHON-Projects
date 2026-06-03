@@ -1,3 +1,5 @@
+
+'''This is a code to check the give string is palindrome or not''''
 s = input("Give a string: ")
 reverse = s[::-1]
 if reverse == s:
