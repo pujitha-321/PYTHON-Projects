@@ -1,3 +1,4 @@
+#IT IS A PROGRAM TO CHECK THE GIVEN DETAILS ARE CORRECT OR INCORRECT
 name = "pujitha"
 username = input("Enter username:")
 id = 1234
