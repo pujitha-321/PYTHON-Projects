@@ -1,4 +1,4 @@
-//Simple ATM SIMULATION SYSTEM
+#Simple ATM SIMULATION SYSTEM
 Balance = 5000
 
 while True:
