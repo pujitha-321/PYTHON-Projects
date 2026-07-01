@@ -1,3 +1,4 @@
+TO CALCULATE USERS AGE IN YEARS , MONTHS , DAYS
 yourbirthYear = int(input("Enter your Birthday year: "))
 yourbirthMonth = int(input("Enter your Birthday month: "))
 yourbirthDay = int(input("Enter your Birthday Day: "))
