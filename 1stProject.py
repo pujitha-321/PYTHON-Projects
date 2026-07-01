@@ -1,3 +1,4 @@
+TO CALCULATE STUDENT EXAM DETAILS
 name = input("Enter your name: ")
 
 sub1 = int(input("Enter sub1 marks: "))
