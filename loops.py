@@ -1,3 +1,4 @@
+#THESE ARE MY BASIC PYTHON PROJECTS WHICH I PRACTICE DAILY
 num = 1
 while num <= 5:
     print(num)
