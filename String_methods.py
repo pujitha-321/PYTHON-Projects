@@ -1,3 +1,4 @@
+#these are the some string methods in PYTHON
 name = input("Enter your name: ")
 result = len(name)
 print(result)
