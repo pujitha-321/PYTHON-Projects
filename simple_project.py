@@ -1,4 +1,4 @@
-THIS IS THE PROGRAM FOR FIND COMPOUND INTEREST CALCULATOR
+#This is the code to calculate Compound Interest of a give amount
 principal = 0
 rate = 0
 time = 0
